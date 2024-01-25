@@ -34,7 +34,6 @@
     - Launched in Chicago at NCC
     - First Computer with a GUI and mouse with point-select
     - Took 10yrs to develop
-    - 
 
 1982 ~ ACM SIGCHI formed
 
