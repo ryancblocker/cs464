@@ -81,3 +81,13 @@ When looking for papers...
 - know the literature
 - think inside the box (assume nothing and challange everything)
 
+### Signal and Noise Metaphor
+```
+      / Signal
+Source
+      \ Noise
+```
+
+Methodology ~ is the way the experiement will be carried out
+
+
