@@ -83,11 +83,20 @@ When looking for papers...
 
 ### Signal and Noise Metaphor
 ```
-      / Signal
-Source
-      \ Noise
+        / Signal
+  Source
+        \ Noise
 ```
 
-Methodology ~ is the way the experiement will be carried out
+  Methodology ~ is the way the experiement will be carried out
 
+  To submit your research to be published you need a HCI:ERP2e which can take up to a month
+  Criteria:
+    - research methodology
+    - risk/benifits...
 
+Charachteriestics such as (age, genderm weight, grip strength, etc) are all independent variables but they cannot be manipulated like traditional independent variables
+
+Control Variable ~ is a circumstance not under investigation that is kept constant while testing the effect of an independant variable
+
+Random Variable ~ is a variable that you cannot control (you give a participant an expresso before the experiment but that participant could have had more before they even started the experiement that is a random variable)
