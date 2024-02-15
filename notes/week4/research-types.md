@@ -100,3 +100,14 @@ Charachteriestics such as (age, genderm weight, grip strength, etc) are all inde
 Control Variable ~ is a circumstance not under investigation that is kept constant while testing the effect of an independant variable
 
 Random Variable ~ is a variable that you cannot control (you give a participant an expresso before the experiment but that participant could have had more before they even started the experiement that is a random variable)
+
+### Procedure
+  1. Arrive and Welcome
+  2. Consent Form
+  3. Instructions given to participants about the experiemnt
+  4. Demonstration Trial, practice trials
+  5. Rest Break
+  6. Administering questionaire or internview
+
+
+
