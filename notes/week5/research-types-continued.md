@@ -6,3 +6,5 @@ The goal of ANOVA is to see if the independent variable had significant effect o
 
 Is the most widely used in hypothesis testing
 
+If things are statistically significant it implies that it is highly likely to happen
+
