@@ -8,3 +8,9 @@ Is the most widely used in hypothesis testing
 
 If things are statistically significant it implies that it is highly likely to happen
 
+## Kolmogorov-Smirnov (KAS)
+
+Requires population mean and stand deviation
+
+## Lilliefors
+
